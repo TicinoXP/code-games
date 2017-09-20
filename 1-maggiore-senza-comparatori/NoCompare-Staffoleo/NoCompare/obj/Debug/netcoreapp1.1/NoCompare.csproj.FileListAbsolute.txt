@@ -1,0 +1,10 @@
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.deps.json
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.runtimeconfig.json
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.runtimeconfig.dev.json
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.dll
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.pdb
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.csprojResolveAssemblyReference.cache
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.csproj.CoreCompileInputs.cache
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.AssemblyInfo.cs
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.dll
+c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.pdb
