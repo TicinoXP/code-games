@@ -8,3 +8,13 @@ c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\De
 c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.AssemblyInfo.cs
 c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.dll
 c:\users\staleo\documents\visual studio 2017\Projects\NoCompare\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.pdb
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.deps.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.runtimeconfig.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.runtimeconfig.dev.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\bin\Debug\netcoreapp1.1\NoCompare.pdb
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.csprojResolveAssemblyReference.cache
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.csproj.CoreCompileInputs.cache
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.AssemblyInfo.cs
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare\obj\Debug\netcoreapp1.1\NoCompare.pdb
