@@ -1,0 +1,15 @@
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.Test.deps.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.Test.runtimeconfig.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.Test.runtimeconfig.dev.json
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.Test.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.Test.pdb
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\bin\Debug\netcoreapp1.1\NoCompare.pdb
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\obj\Debug\netcoreapp1.1\NoCompare.Test.csprojResolveAssemblyReference.cache
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\obj\Debug\netcoreapp1.1\NoCompare.Test.csproj.CoreCompileInputs.cache
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\obj\Debug\netcoreapp1.1\NoCompare.Test.AssemblyInfo.cs
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\obj\Debug\netcoreapp1.1\NoCompare.Test.dll
+C:\5TAFFOLEO\CodeGames\code-games\1-maggiore-senza-comparatori\NoCompare-Staffoleo\NoCompare.Test\obj\Debug\netcoreapp1.1\NoCompare.Test.pdb
