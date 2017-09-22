@@ -31,7 +31,7 @@ namespace MaggioreSenzaComparatoriTest
         [TestCase(2, 1, 2)]
         [TestCase(-5, 5, 5)]
         [TestCase(5, -5, 5)]
-        public void Max_should_work_correctly(int a, int b, int expected)
+        public void Max_should_work_correctly(short a, short b, short expected)
         {
             _sut.Max(a, b).Should().Be(expected);
         }
