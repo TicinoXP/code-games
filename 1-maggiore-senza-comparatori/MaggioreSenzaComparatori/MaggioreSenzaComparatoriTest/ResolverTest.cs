@@ -23,6 +23,14 @@ namespace MaggioreSenzaComparatoriTest
         [TestCase(10, 9, 10)]
         [TestCase(-10, -9, -9)]
         [TestCase(-9, -10, -9)]        
+        [TestCase(-9, -9, -9)]        
+        [TestCase(-10, -10, -10)]
+        [TestCase(9, 9, 9)]
+        [TestCase(10, 10, 10)]
+        [TestCase(1, 2, 2)]
+        [TestCase(2, 1, 2)]
+        [TestCase(-5, 5, 5)]
+        [TestCase(5, -5, 5)]
         public void Max_should_work_correctly(int a, int b, int expected)
         {
             _sut.Max(a, b).Should().Be(expected);
