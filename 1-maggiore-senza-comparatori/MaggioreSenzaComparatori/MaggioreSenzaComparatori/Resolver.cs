@@ -10,10 +10,20 @@ namespace MaggioreSenzaComparatori
     {
         public int Max(int a, int b)
         {
-            var media = ((double)a + b) / 2;
-            var diff = Math.Abs((double)a - b) / 2;
-            
-            return (int)(media + diff);
+            var queue = new Queue<int>();
+
+            for (int i = 0; i < a; i++)
+                queue.Enqueue(a);
+
+            for (int i = 0; i < b; i++)
+                queue.Enqueue(b);
+
+            var t = (a + b) / 2;
+            int value = 0;
+            for (int i = 0; i <= t; i++)
+                value = queue.Dequeue();
+
+            return value;
         }
     }
 }
