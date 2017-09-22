@@ -77,24 +77,11 @@ namespace MaxWithoutComparators
                 );
         }
 
-        public static bool ThereAreOtherItems(List<bool> ab)
-        {
-            return ToBoolean(ab.Count());
-        }
+        public static bool ThereAreOtherItems(List<bool> ab) => ToBoolean(ab.Count());
+        public bool IsBigger(bool a, bool b) => a && !b;
+        public bool AreEqual(bool a, bool b) =>  a && b || (!a && !b);
 
-        public static List<bool> ConvertToBinary(int number)
-        {
-            return Convert.ToString(number, 2).Select(c => ToBoolean(int.Parse(c.ToString()))).ToList();
-        }
+        public static List<bool> ConvertToBinary(int number) =>  Convert.ToString(number, 2).Select(c => ToBoolean(int.Parse(c.ToString()))).ToList();
 
-        public bool IsBigger(bool a, bool b)
-        {
-            return a && !b;
-        }
-
-        public bool AreEqual(bool a, bool b)
-        {
-            return a && b || (!a && !b);
-        }
     }
 }
