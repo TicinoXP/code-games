@@ -10,20 +10,14 @@ namespace MaggioreSenzaComparatori
     {
         public int Max(int a, int b)
         {
-            var queue = new Queue<int>();
+            var list = new List<int>();
 
-            for (int i = 0; i < a; i++)
-                queue.Enqueue(a);
+            for (var i = 0; i < a; i++)
+                list.Add(a);
+            for (var i = 0; i < b; i++)
+                list.Add(b);
 
-            for (int i = 0; i < b; i++)
-                queue.Enqueue(b);
-
-            var t = (a + b) / 2;
-            int value = 0;
-            for (int i = 0; i <= t; i++)
-                value = queue.Dequeue();
-
-            return value;
+            return list[(a + b) / 2];
         }
     }
 }
