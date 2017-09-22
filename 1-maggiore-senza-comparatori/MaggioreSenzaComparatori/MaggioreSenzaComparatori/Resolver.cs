@@ -8,16 +8,19 @@ namespace MaggioreSenzaComparatori
 {
     public class Resolver
     {
-        public int Max(int a, int b)
+        public short Max(short a, short b)
         {
-            var list = new List<int>();
+            var list = new List<uint>();
 
-            for (var i = 0; i < a; i++)
-                list.Add(a);
-            for (var i = 0; i < b; i++)
-                list.Add(b);
+            var uintA = (ushort)(short.MaxValue + a);
+            for (var i = 0; i < uintA; i++)
+                list.Add(uintA);
 
-            return list[(a + b) / 2];
+            var uintB = (ushort)(short.MaxValue + b);
+            for (var i = 0; i < uintB; i++)
+                list.Add(uintB);
+
+            return (short)(list[((uintA + uintB) / 2)] - short.MaxValue);
         }
     }
 }
