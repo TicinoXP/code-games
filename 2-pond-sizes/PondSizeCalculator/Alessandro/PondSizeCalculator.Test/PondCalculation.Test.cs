@@ -76,7 +76,7 @@ namespace PondSizeCalculator.Test
         [TestMethod]
         public void TestCalculateMethod()
         {
-            var pond = new Pond();
+            var pond = new PondTree();
 
             for (int k = 0; k < _ponds.Count; k++)
             {
