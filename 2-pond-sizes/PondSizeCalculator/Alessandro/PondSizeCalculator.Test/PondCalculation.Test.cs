@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Collections.Generic;
+using PondSizeCalculator.Iteration;
 
 namespace PondSizeCalculator.Test
 {
@@ -76,7 +77,7 @@ namespace PondSizeCalculator.Test
         [TestMethod]
         public void TestCalculateMethod()
         {
-            var pond = new PondTree();
+            var pond = new PondIteration();
 
             for (int k = 0; k < _ponds.Count; k++)
             {
