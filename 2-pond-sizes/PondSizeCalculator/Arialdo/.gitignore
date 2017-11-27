@@ -1,0 +1,6 @@
+*.suo
+packages/**
+**/bin/**
+**/obj/**
+*.csproj.user
+storage.ide
